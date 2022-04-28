@@ -1,0 +1,33 @@
+Homework
+Networks Everywhere
+List three different real networks and state the nodes and links for each of them.
+
+	Microbial interaction network: Nodes - each bacteria/Links - how the bacteria interact with each other bacteria
+	Friendship networks: Nodes - each person / Links - how the friends interact with each other lol
+	The brain: Nodes - neurons / Links - neurotransmitter links between each person
+
+Your Interest
+Tell us of the network you are personally most interested in. Address the following questions:
+
+What are its nodes and links?
+How large is it?
+Can be mapped out?
+Why do you care about it?
+
+	In my research, I'm most interested in studying the microbial interaction network, this network governs the evolutionary pathway
+	of individual microbes in a microbial system. This can be applied to complex topics like microbiota or even things as simple as
+	how two different bacteria interact with each other. It can be mapped out. It's interesting because if we understand the basics of 
+	microbial interaction and how it works with regards to evolutionary history, we can more accurately predict how antibiotic resistance
+	will occur and which bacteria would survive in a human gut microbiota. We can predict human health, disease progression, even things like
+	mood, hormones, and emotion are all affected. 
+	
+
+Impact
+In your view what would be the area where network science could have the biggest impact in the next decade? Explain your answer.
+
+	Clearly network science would be the greatest in global economic networks. Look at the Russio-Ukranian war of early 2022. This 
+	was a war that was primarily fought with economic networks. Sanctions of Russia were meant to cripple their financial system, support
+	of Ukranian troops with military weapons, and Russian counterattacks with cutting off other global powers from their oil supplies 
+	were all things where networks were the weapons leveraged against other nation states. I can't imagine how crazy wars will be in 
+	the future and I hope we don't have to come to that. 
+	
